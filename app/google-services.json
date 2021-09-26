@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "459532997088",
+    "project_id": "primroseboutique2",
+    "storage_bucket": "primroseboutique2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459532997088:android:707eaaef0b13057fed5b85",
+        "android_client_info": {
+          "package_name": "com.example.primroseboutique2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459532997088-r3rd7qlbomloncu73k8fh1fgjppe3l43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBIIZ72S0SEXF1VfZBTrIg8u7KovT09zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459532997088-r3rd7qlbomloncu73k8fh1fgjppe3l43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Primrose Boutique</string>
+    <string name="loginUsername">Username/Email</string>
+    <string name="loginPassword">Password</string>
+    <string name="btn_signIn1">Sign In</string>
+    <string name="btn_signUp1">Sign Up!</string>
+    <string name="noAccount1">No Account?</string>
+    <string name="editPword">Password:</string>
+    <string name="editUname">Username:</string>
+    <string name="btn_create_account">Create Account</string>
+    <string name="haveAnAccount">Have An Account?</string>
+    <string name="btn_signIn2">Sign In</string>
+    <string name="inPassword">password</string>
+    <string name="inUname">username</string>
+</resources>

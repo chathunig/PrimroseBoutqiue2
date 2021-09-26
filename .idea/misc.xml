@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PrimroseBoutique2/app/src/main/res/drawable/ic_baseline_add_circle_outline_24.xml" value="0.14074074074074075" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PrimroseBoutique2/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.14074074074074075" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PrimroseBoutique2/app/src/main/res/layout/activity_adddata.xml" value="0.1640625" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PrimroseBoutique2/app/src/main/res/layout/activity_loginpage.xml" value="0.1640625" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PrimroseBoutique2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PrimroseBoutique2/app/src/main/res/layout/activity_regispage.xml" value="0.1640625" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PrimroseBoutique2/app/src/main/res/layout/dialogcontent.xml" value="0.1640625" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PrimroseBoutique2/app/src/main/res/layout/singlerow.xml" value="0.1640625" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/PrimroseBoutique2/app/src/main/res/menu/searchmenu.xml" value="0.1484375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
